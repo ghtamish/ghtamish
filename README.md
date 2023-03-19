@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Tamish%9225-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
   <a href="https://github.com/mhatretamish/?tab=follow">
-    <img src="https://img.shields.io/github/followers/ghtamish?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/mhatretamish?label=Follow&style=social" />
   </a>
 </p>
 
