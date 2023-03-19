@@ -1,16 +1,16 @@
-# Sahil Arun
+# Tamish
 
 <img align="right" width="300px" src="./bio-image.svg" />
 
 <p align="left">
-  <a href="sahilarun777@gmail.com">
-    <img src="https://img.shields.io/badge/-sahilarun777@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahilarun777@gmail.com" />
+  <a href="tamishmhatre26@gmail.com">
+    <img src="https://img.shields.io/badge/-tamishmhatre26@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamishmhatre26@gmail.com" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/NotHerHacker%236111-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tamish%9225-6633cc?style=flat-square&logo=Discord&logoColor=white" />
   </a>
-  <a href="https://github.com/sahilarun/?tab=follow">
-    <img src="https://img.shields.io/github/followers/sahilarun?label=Follow&style=social" />
+  <a href="https://github.com/ghtamish/?tab=follow">
+    <img src="https://img.shields.io/github/followers/ghtamish?label=Follow&style=social" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=sahilarun&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=ghtamish&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
 />
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
